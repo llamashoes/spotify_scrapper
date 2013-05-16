@@ -5,7 +5,7 @@ I wanted an automated way to capture data from a spotify playlist. This script a
 The goal 
 
 run like this:
-ruby test.rb <file>
+ruby scrapper.rb <file>
 
 TODO:
  * Create a standard playlist file automatically from this data
